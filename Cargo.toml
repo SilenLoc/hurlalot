@@ -20,7 +20,7 @@ catppuccin-egui = { git = "https://github.com/catppuccin/egui.git" }
 egui_tiles = "0.3.1"
 log = "0.4.20"
 
-regex = "1.9.6"
+regex = "1.10.4"
 colored = "2.0.4"
 
 
